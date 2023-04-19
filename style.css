@@ -73,7 +73,7 @@ body{
     right: 250px;
     bottom: 250px;
     display: grid;
-    grid-template-columns: 300px 300px;
+    grid-template-columns: 200px 200px;
     height: 300px;
     row-gap: 20px;
     column-gap: 40px;  
